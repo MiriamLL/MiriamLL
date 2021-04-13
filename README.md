@@ -6,8 +6,9 @@ My name is Miriam Lerma
 - 🔭 I´m teaching R and Rmd
 - 🔭 Im collaborating with seabird research projects 
 - 🌱 I’m currently learning how to develop packages
-- 👯 I’m looking to collaborate on studies in LatinAmerica
-- 📫 You can reach me by sending me an email. 💬 I speak Spanish, English and some German.
+- 👯 I’m looking to collaborate with research projects in LatinAmerica
+- 📫 You can reach me by sending me an email. 
+- 💬 I speak Spanish, English and some German.
 
 If you are here for:
 - Collaboration projects at FTZ and can not find the repository please send me an email at lerma arroba ftz-west.uni-kiel.de
