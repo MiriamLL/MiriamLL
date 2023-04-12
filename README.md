@@ -13,7 +13,7 @@ My name is Miriam Lerma
 If you are here for:
 - Collaboration projects at FTZ and can not find the repository please send me an email at lerma arroba ftz-west.uni-kiel.de
 - Publication materials: published materials are public, under review materials are private and you need to request access 
-- Learning R and Rmd: all materials are freely available and you also can go to www.miriam-lerma.com/materiales
+- Learning R and Rmd: all materials are freely available and you also can go to www.miriam-lerma.com/teaching
 
 --- 
 
@@ -30,5 +30,5 @@ Mi nombre es Miriam Lerma
 Sí estas aquí por:
 - Los proyectos colaborativos en FTZ y no encuentras el repositorio envíame un email a lerma arroba ftz-west.uni-kiel.de
 - Materiales de las publicaciones: los materiales ya publicados estan publicos, los que estan por publicarse estan en privado y necesitas solicitar acceso
-- Materiales para aprender R o Rmd: los materiales estan libres y accesibles y también puedes ir a www.miriam-lerma.com/materiales
+- Materiales para aprender R o Rmd: los materiales estan libres y accesibles y también puedes ir a www.miriam-lerma.com/teaching
 
