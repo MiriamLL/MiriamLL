@@ -5,7 +5,7 @@ My name is Miriam Lerma
 - 🔭 I’m currently working as a data analysis at FTZ (University of Kiel, Germany) and the DDA (Dachverband Deutscher Avifaunisten)
 - 🔭 I´m teaching R and Rmd
 - 🔭 Im collaborating with seabird research projects 
-- 🌱 I’m currently learning how to develop packages
+- 🌱 I’m sharing functions in new packages
 - 👯 I’m looking to collaborate with research projects in LatinAmerica
 - 📫 You can reach me by sending me an email. 
 - 💬 I speak Spanish, English and some German.
@@ -23,7 +23,7 @@ Mi nombre es Miriam Lerma
 - 🔭 Actualmente trabajo como analista de datos en FTZ (Universidad de Kiel, Alemania) y en DDA (Organización Alemana de Avifaunistas)
 - 🔭 Estoy dando clases de R y Rmd
 - 🔭 Estoy colaborando en diferentes publicaciones con aves marinas
-- 🌱 Estoy aprendiendo a como desarrollar paquetes 
+- 🌱 Comparto herramientas de analisis en paquetes de R
 - 👯 Estoy buscando tener colaboraciones con estudios en America Latina
 - 📫 Cualquier duda puedes escribirme un correo a lerma arroba ftz-west.uni-kiel.de
 
