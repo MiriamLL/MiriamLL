@@ -2,7 +2,7 @@
 
 My name is Miriam Lerma
 
-- 🔭 I’m currently working as a data analysis at FTZ (University of Kiel, Germany) and the DDA (Dachverband Deutscher Avifaunisten)
+- 🔭 I’m currently working at DDA (Dachverband Deutscher Avifaunisten)
 - 🔭 I´m teaching R and Rmd
 - 🔭 Im collaborating with seabird research projects 
 - 🌱 I’m sharing functions in new packages
@@ -20,7 +20,7 @@ If you are here for:
 ### Hola 👋
 
 Mi nombre es Miriam Lerma
-- 🔭 Actualmente trabajo como analista de datos en FTZ (Universidad de Kiel, Alemania) y en DDA (Organización Alemana de Avifaunistas)
+- 🔭 Actualmente trabajo como analista de datos en DDA (Organización Alemana de Avifaunistas)
 - 🔭 Estoy dando clases de R y Rmd
 - 🔭 Estoy colaborando en diferentes publicaciones con aves marinas
 - 🌱 Comparto herramientas de analisis en paquetes de R
