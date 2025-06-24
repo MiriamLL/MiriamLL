@@ -3,7 +3,7 @@
 My name is Miriam Lerma
 
 - 🔭 I’m currently working at DDA (Dachverband Deutscher Avifaunisten)
-- 🔭 I´m teaching R and Rmd
+- 🔭 I´m open for hire for freelance data analysis
 - 🔭 Im collaborating with seabird research projects 
 - 🌱 I’m sharing functions in new packages
 - 👯 I’m looking to collaborate with research projects in LatinAmerica
@@ -21,7 +21,7 @@ If you are here for:
 
 Mi nombre es Miriam Lerma
 - 🔭 Actualmente trabajo como analista de datos en DDA (Organización Alemana de Avifaunistas)
-- 🔭 Estoy dando clases de R y Rmd
+- 🔭 Estoy abierto a la contratación para el análisis de datos freelance
 - 🔭 Estoy colaborando en diferentes publicaciones con aves marinas
 - 🌱 Comparto herramientas de analisis en paquetes de R
 - 👯 Estoy buscando tener colaboraciones con estudios en America Latina
