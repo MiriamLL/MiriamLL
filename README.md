@@ -21,7 +21,7 @@ If you are here for:
 
 Mi nombre es Miriam Lerma
 - 🔭 Actualmente trabajo como analista de datos en DDA (Organización Alemana de Avifaunistas)
-- 🔭 Estoy abierto a la contratación para el análisis de datos freelance
+- 🔭 Disponible para el análisis de datos como freelance
 - 🔭 Estoy colaborando en diferentes publicaciones con aves marinas
 - 🌱 Comparto herramientas de analisis en paquetes de R
 - 👯 Estoy buscando tener colaboraciones con estudios en America Latina
